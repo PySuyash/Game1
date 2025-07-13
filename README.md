@@ -1,5 +1,5 @@
 # Game1
-✅ Python To-Do List App
+✅ Python To-Do List App.
 A beginner-friendly command-line to-do list application written in Python. Perfect for managing daily tasks and learning core programming concepts like file handling and data structures.
 
 <b>🔧 Key Features </b>
